@@ -10,4 +10,4 @@ Key Features:
 Overall, a React. js-based note app would provide a seamless and efficient way for users to manage their notes digitally, leveraging the power of React.js to build a fast, interactive, and dynamic user interface.
 g
 
-<img width="960" alt="image" src="https://github.com/diksh04/NotesApp/assets/84238934/a80e2725-79d2-4015-b93d-1888bc8d003a">
+<img width="960" alt="image" src="https://github.com/diksh04/NotesApp/assets/84238934/e68ffc38-ead5-40bd-ab3f-38ad26480b5a">
