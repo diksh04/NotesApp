@@ -8,6 +8,6 @@ Key Features:
 5. Dark Mode (Optional): A dark mode option may be provided for users who prefer a darker color scheme, which can be easily implemented in React.js. 
 
 Overall, a React. js-based note app would provide a seamless and efficient way for users to manage their notes digitally, leveraging the power of React.js to build a fast, interactive, and dynamic user interface.
-g
 
-<img width="960" alt="image" src="https://github.com/diksh04/NotesApp/assets/84238934/e68ffc38-ead5-40bd-ab3f-38ad26480b5a">
+
+<img width="959" alt="image" src="https://github.com/diksh04/NotesApp/assets/84238934/963a5714-f566-4f8d-8e55-5bfa41b4599d">
